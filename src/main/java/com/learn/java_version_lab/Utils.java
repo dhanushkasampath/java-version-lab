@@ -1,7 +1,5 @@
 package com.learn.java_version_lab;
 
-import com.learn.java_version_lab.java8.exercise_1_replace_anonymouse_classes_with_lambdas.Employee;
-
 import java.util.Arrays;
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package com.learn.java_version_lab.java8.exercise_1_replace_anonymouse_classes_with_lambdas.sorting;
 
-import com.learn.java_version_lab.java8.exercise_1_replace_anonymouse_classes_with_lambdas.Employee;
+import com.learn.java_version_lab.Employee;
 
 import java.util.Collections;
 import java.util.Comparator;

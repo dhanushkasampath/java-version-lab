@@ -1,9 +1,8 @@
 package com.learn.java_version_lab.java8.exercise_1_replace_anonymouse_classes_with_lambdas.filtering;
 
-import com.learn.java_version_lab.java8.exercise_1_replace_anonymouse_classes_with_lambdas.Employee;
+import com.learn.java_version_lab.Employee;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 import static com.learn.java_version_lab.Utils.getEmployees;

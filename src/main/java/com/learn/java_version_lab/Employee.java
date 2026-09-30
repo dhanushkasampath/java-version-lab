@@ -1,4 +1,4 @@
-package com.learn.java_version_lab.java8.exercise_1_replace_anonymouse_classes_with_lambdas;
+package com.learn.java_version_lab;
 
 public class Employee {
     private long id;

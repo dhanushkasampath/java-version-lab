@@ -1,7 +1,7 @@
 package com.learn.java_version_lab.java8.exercise_2_employee_analytics_with_streams;
 
 import com.learn.java_version_lab.Utils;
-import com.learn.java_version_lab.java8.exercise_1_replace_anonymouse_classes_with_lambdas.Employee;
+import com.learn.java_version_lab.Employee;
 
 import java.util.Comparator;
 import java.util.List;
