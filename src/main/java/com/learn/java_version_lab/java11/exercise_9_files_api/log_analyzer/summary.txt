@@ -1,0 +1,13 @@
+APPLICATION LOG SUMMARY
+=======================
+
+Total log lines: 10
+ERROR count: 3
+WARN count: 2
+Slow request threshold: 1000 ms
+Slow request count: 2
+
+SLOW REQUESTS
+-------------
+2026-10-18 08:00:07 WARN GET /api/reports completed in 1500ms
+2026-10-18 08:00:10 INFO GET /api/orders completed in 2200ms
