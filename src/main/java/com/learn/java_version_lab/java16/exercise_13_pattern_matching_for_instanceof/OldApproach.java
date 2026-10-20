@@ -1,4 +1,4 @@
-package com.learn.java_version_lab.java16.exercise_12_pattern_matching_for_instanceof;
+package com.learn.java_version_lab.java16.exercise_13_pattern_matching_for_instanceof;
 
 class Payment {
     public void process() {
