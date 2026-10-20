@@ -1,4 +1,4 @@
-package com.learn.java_version_lab.java16.exercise_14_records.example1;
+package com.learn.java_version_lab.java16.exercise_14_records.example1_basics;
 
 public class Test {
     static void main() {

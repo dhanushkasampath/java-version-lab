@@ -1,6 +1,6 @@
 package com.learn.java_version_lab.java16.exercise_14_records.example2_immutability;
 
-import com.learn.java_version_lab.java16.exercise_14_records.example1.JavaRecordWay;
+import com.learn.java_version_lab.java16.exercise_14_records.example1_basics.JavaRecordWay;
 
 public class Test {
     JavaRecordWay javaRecordWay =
